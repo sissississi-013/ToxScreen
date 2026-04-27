@@ -1,0 +1,13 @@
+torch>=2.0
+transformers>=4.40
+accelerate
+datasets
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+biopython
+requests
+modal
+peft
